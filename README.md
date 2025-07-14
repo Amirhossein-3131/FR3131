@@ -32,10 +32,9 @@ Clone the repository:
 git clone https://github.com/your-username/FR3131.git
 cd FR3131
 go mod tidy
+
 ⚙️ Usage
-bash
-Copy
-Edit
+
 go run main.go -t example.com
 The tool will:
 
