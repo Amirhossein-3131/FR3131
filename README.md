@@ -36,7 +36,7 @@
 Clone the repository and tidy Go dependencies:
 
 ```bash
-git clone https://github.com/your-username/FR3131.git
+git clone https://github.com/َAmirhossein-3131/FR3131.git
 cd FR3131
 go mod tidy
 ````
@@ -100,6 +100,4 @@ https://api.telegram.org/bot<your_bot_token>/getUpdates
 
 ---
 
-> **FR3131** – Fast and simple multi-tool subdomain reconnaissance in Go
-
-```
+ **FR3131** – Fast and simple multi-tool subdomain reconnaissance in Go
